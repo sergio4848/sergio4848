@@ -14,7 +14,11 @@ area in digital media and generative-AI content production.
 - 🌍 Open to relocation (EU / UK) · English (C1), Turkish (native), Polish (intermediate)
 
 ### Featured projects
-- **[content-ops-mcp](https://github.com/sergio4848/content-ops-mcp)** — a Python MCP server that lets an LLM client (e.g. Claude Desktop) manage a social-media content calendar and send webhook notifications. Tools + resource, pytest tests, Docker. Built with Claude Code.
+- **[langgraph-service-kit](https://github.com/sergio4848/langgraph-service-kit)** — a FastAPI service for LangGraph agents: typed triage graph, Pydantic structured outputs, deterministic test backend, eval harness, Prometheus metrics, Docker, Kubernetes and CI.
+- **[inference-service-bench](https://github.com/sergio4848/inference-service-bench)** — ONNX Runtime image classifier with micro-batching, an LLM gateway that measures TTFT and tokens/s, and the load generator that benchmarks them.
+- **[careos](https://github.com/sergio4848/careos)** — telecare incident-orchestration platform (in development): FastAPI modular monolith, PostgreSQL state machine and audit trail, escalation worker, WebSocket operator board.
+- **[onair-newsroom](https://github.com/sergio4848/onair-newsroom)** — automated breaking-news desk for live streams: scores and deduplicates X posts and airs them on an OBS browser-source overlay.
+- **[content-ops-mcp](https://github.com/sergio4848/content-ops-mcp)** — a Python MCP server that lets an LLM client manage a social-media content calendar and send webhook notifications. Tools + resource, pytest tests, Docker.
 - **[emlakpro](https://github.com/sergio4848/emlakpro)** — an AI-powered operating system for estate agencies. NestJS modular monolith, Postgres (pgvector), Redis, MinIO, in a pnpm/turbo monorepo. Source-available.
 
 ### Reach me
